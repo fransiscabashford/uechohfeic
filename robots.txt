@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yiepooche.rrgraute.nl/sitemap.xml
